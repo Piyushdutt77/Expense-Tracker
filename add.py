@@ -6,4 +6,4 @@ def add_expense(expenses):
     expense={"name":name,"amount":amount,"category":category}
     expenses.append(expense)
 
-    print("Added\n")
+    print("Added")
