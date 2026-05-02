@@ -31,6 +31,6 @@ def main():
             break
 
         else:
-            print("Invalid\n")
+            print("Invalid")
 
 main()
