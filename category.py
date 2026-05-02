@@ -9,7 +9,7 @@ def category_summary(expenses):
         else:
             summary[cat]=e["amount"]
 
-    print("\nCategory Summary:")
+    print("Category Summary:")
     for i in summary:
         print(i,summary[i])
     print()
